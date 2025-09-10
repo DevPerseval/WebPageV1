@@ -1,0 +1,27 @@
+body {  
+  background-image: url('https://i.pinimg.com/1200x/31/41/97/314197a91dffb4987121d46022f8de7f.jpg');
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-attachment: scroll !important;
+  background-size: cover !important;
+  margin: 0 !important;
+  padding: 35px !important;
+  font-family: 'Montserrat', sans-serif;
+  color: whitesmoke;
+
+}
+header {
+    font-size: 23px;
+    
+
+    
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #2e2f3b;
+  font-size: 20px;
+ }
+ h1 {
+    font-size: 35px;
+ }
+ p {
+  margin: 0 0 2em 0; }
